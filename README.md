@@ -2,6 +2,18 @@
 
 ## A minimal video conferencing web app built with React and Vite using ZegoCloud's SDK for real-time communication.
 
+## 🚀 Features
+
+- Join or create rooms using a sharable URL
+- Real-time video & audio communication
+- Built with ZegoCloud’s UI Kit
+
+## 🛠️ Tech Stack
+
+- React + Vite
+- ZegoCloud SDK
+- JavaScript
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

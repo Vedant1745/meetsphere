@@ -1,6 +1,6 @@
 # MeetSphere
 
--- A minimal video conferencing web app built with React and Vite using ZegoCloud's SDK for real-time communication.
+--- A minimal video conferencing web app built with React and Vite using ZegoCloud's SDK for real-time communication.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
